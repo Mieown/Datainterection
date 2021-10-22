@@ -1,6 +1,6 @@
 # Datainterection
 
-Brief 8 - Hyper Island - CMS
+Brief - Hyper Island - CMS
 
 📜 Brief:
 
