@@ -4,7 +4,7 @@ Brief 8 - Hyper Island - CMS
 
 📜 Brief:
 
-Build a Content Manage,ent System, CMS. To build a startpage with news and a list of subpages. Building it with a database and Rest API and explore dynamic content.
+Build a Content Management System, CMS. To build a startpage with news and a list of subpages. Building it with a database and Rest API and explore dynamic content.
 
 ⌛ Time spent:
 
